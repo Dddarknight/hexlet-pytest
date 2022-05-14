@@ -1,1 +1,1 @@
-[![Actions Status](https://github.com/Dddarknight/hexlet-pytest/workflows/python-package.yml/badge.svg)](https://github.com/Dddarknight/hexlet-pytest/actions)![image](https://user-images.githubusercontent.com/101993082/168421933-8c7a2463-e5e5-418e-af39-ec6353829cb1.png)
+![python-package](https://github.com/Dddarknight/hexlet-pytest/actions/workflows/python-package.yml/badge.svg)
